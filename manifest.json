@@ -4,7 +4,7 @@
   "description": "Enhances to TASS by adding dark mode, changing colors and much more",
   "version": "1.0",
   "action": {
-    "default_popup": "hello.html",
+    "default_popup": "main.html",
     "default_icon": "Icons/new-logo.png"
   }
 }
